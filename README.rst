@@ -18,4 +18,16 @@ Available states
 ``scrapy``
 ---------
 
-Add oficial Scrapy repo and install base packages.
+Include by default ``scrapy.repo``
+
+
+``scrapy.repo``
+---------
+
+Add official Scrapy Debian repo and install base packages.
+
+
+``scrapy.virtualenv``
+---------
+
+Install Scrapy from PyPi via pip on a virtualenv. See ``pillar.example`` to configure this state.

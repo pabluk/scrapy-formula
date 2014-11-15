@@ -1,0 +1,5 @@
+scrapy:
+  user: scrapy
+  home: /home/scrapy
+  virtualenv: /home/scrapy/.virtualenvs/scrapy
+  version: latest
