@@ -5,7 +5,7 @@ scrapy-repo:
     - keyid: 627220E7
     - keyserver: hkp://keyserver.ubuntu.com:80
 
-scrapy:
+scrapyd:
   pkg:
     - installed
-    - name: scrapy-0.24
+    - name: scrapyd
